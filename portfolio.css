@@ -1,5 +1,5 @@
 Body {
-    background-color: rgb(70, 247, 247);
+    background-color: aquamarine;
     color: aliceblue;
 }
 
@@ -13,6 +13,7 @@ Body {
 
 }
 
+
 #header2 {
 
     font-size: 200%;
@@ -22,28 +23,66 @@ Body {
 
 .supermario {
 
+    width: 25%;
+    height: 25%;
     border-style: double;
-    border-width: 10px;
+    border-width: 50%;
     border-color: silver;
+
+
 }
+
+
 
 .Experience {
     color: black;
     font-style: oblique;
     font-size: 100%;
+
+}
+
+.content {
+
+    background-color: #2a607c;
+    padding-top: 5px;
+
 }
 
 .vscode {
-    width: 600px;
-    height: 500px;
-    margin-bottom: 25px;
-    margin-top: 25px;
+    width: 50%;
+    height: 50%;
+
+
+
+
+}
+
+.firstProject {
+    width: 70%;
+    height: 70%;
+
+
+
+}
+
+.secondProject {
+    width: 50%;
+    height: 50%;
+
+
+
+}
+
+
+.center {
+    display: block;
+    margin: 5% auto;
 
 }
 
 .p {
     color: black;
-    background-color: beige;
+    text-align: center;
 }
 
 .footer {
