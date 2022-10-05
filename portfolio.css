@@ -48,6 +48,14 @@ Body {
 
 }
 
+.resize {
+    width: 1000px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .vscode {
     width: 50%;
     height: 50%;
@@ -58,19 +66,29 @@ Body {
 }
 
 .firstProject {
-    width: 70%;
-    height: 70%;
-
-
-
-}
-
-.secondProject {
     width: 50%;
     height: 50%;
 
 
 
+}
+
+.mySecondProject {
+    width: 50%;
+    height: 50%;
+
+
+
+}
+
+.firstTeamProject {
+    width: 400px;
+    height: auto;
+}
+
+.recentTeamProject {
+    width: 400px;
+    height: auto;
 }
 
 
